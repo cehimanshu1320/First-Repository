@@ -1,0 +1,23 @@
+class Box
+{
+    double width;
+    double length;
+    double height;
+    Box(double width, double length, double height)
+    {
+        this.width = width;
+        this.length = length;
+        this.height = height;
+    }
+    void volume()
+    {
+        System.out.println(width*height*length);
+    }
+}
+public class HelloWorld{
+
+     public static void main(String []args){
+        Box b = new Box();
+       // b.volume();
+     }
+}
