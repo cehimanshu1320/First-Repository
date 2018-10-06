@@ -1,4 +1,2 @@
 # First-Repository
-learning git hub basics
-This is my first git hub repository 
-Learning new concepts about programming in all the fields like Java, Android etc
+This is a deep example of Python Class Inhertience with the usage of generators and understanding the hierarchy of classes inherited
